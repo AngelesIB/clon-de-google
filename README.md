@@ -5,13 +5,13 @@ Puedes poner en practica tus habilidades revisando y utilizando el códig a cont
 
 ****
 
-## ÍNDICE
+## ÍNDICE 🐾
 
-* [1.- Intro](url)
-* [2.- Demo](url)
-* [3.- ¿Qúe construirás?](url)
-* [4.- Objetivos de aprendisaje](url)
-* [5.- Requisitos](url)
+* [1.- Intro](https://github.com/AngelesIB/clon-de-google/edit/main/README.md#1--intro-)
+* [2.- Demo](https://github.com/AngelesIB/clon-de-google/edit/main/README.md#2--demo-)
+* [3.- ¿Qúe construirás?](https://github.com/AngelesIB/clon-de-google/edit/main/README.md#3--qúe-construirás-%EF%B8%8F)
+* [4.- Objetivos de aprendisaje](https://github.com/AngelesIB/clon-de-google/edit/main/README.md#4--objetivos-de-aprendisaje-)
+* [5.- Requisitos](https://github.com/AngelesIB/clon-de-google/edit/main/README.md#5--requisitos-)
 
 ## 1.- Intro 🐻
 
@@ -25,7 +25,7 @@ La idea es inspirarte con esta demostración de proyecto.
 
 **¡Quizá no te quede idéntico o quizá te quede mucho mejor que este demo🤩**, utiliza tu destreza y aprendizaje para que demuestres que tu futuro es ser un(a) programador(a) web.👩🏻💻👦🏻
 
-![imagen]("./../imagenes/googlelogo.png)
+![imagen]("./../images/clon-cap.png)
 
 
 ## 3.- ¿Qúe construirás? 🐿️
