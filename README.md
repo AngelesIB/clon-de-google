@@ -9,7 +9,7 @@ Puedes poner en practica tus habilidades revisando y utilizando el códig a cont
 
 * [1.- Intro](https://github.com/AngelesIB/clon-de-google/blob/main/README.md#1--intro-)
 * [2.- Demo](https://github.com/AngelesIB/clon-de-google/blob/main/README.md#2--demo-)
-* [3.- ¿Qué construirás?](https://github.com/AngelesIB/clon-de-google/blob/main/README.md#3--qúe-construirás-%EF%B8%8F)
+* [3.- ¿Qué construirás?](https://github.com/AngelesIB/clon-de-google/blob/main/README.md#3--qué-construirás-%EF%B8%8F)
 * [4.- Objetivos de aprendisaje](https://github.com/AngelesIB/clon-de-google/blob/main/README.md#4--objetivos-de-aprendisaje-)
 * [5.- Requisitos](https://github.com/AngelesIB/clon-de-google/blob/main/README.md#5--requisitos-)
 
