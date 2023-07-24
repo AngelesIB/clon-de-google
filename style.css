@@ -1,0 +1,148 @@
+* {
+    /*Pega todo el texto al margen de la pagina*/
+    margin: 0px;
+    padding: 0px;
+    /*Cambiamos el tamaño de la letra*/
+    font-size: 14px;
+    /*Tipo de letra*/
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    height: 8vh;
+    /*Alto*/
+}
+
+main {
+    height: 83vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+footer {
+    height: auto;
+    background-color: rgba(128, 128, 128, 0.128);
+    color: gray;
+}
+
+header nav {
+    display: flex;
+    justify-content: flex-end;
+}
+
+header nav ul {
+    display: flex;
+    list-style: none;
+    /*Elimina las viñetas*/
+}
+
+ul {
+    display: flex;
+    list-style: none;
+}
+
+li {
+    padding: 20px 10px;
+}
+
+#nav-right-section {
+    padding: 20px, 18px;
+    /*Le da espacios entre listas*/
+}
+
+#nav-left-section {
+    padding: 0px, 10px;
+}
+
+#footer-listas {
+    display: flex;
+   /* background-color: rgba(128, 128, 128, 0.235);*/
+   justify-content: space-evenly;
+   justify-content: left;
+   padding: 0 20px;
+}
+
+.pais{
+    padding: 15px 30px;
+}
+
+#footer-listas ul li{ /*Listas ordenadas*/
+    padding: 15px; /*Espacio que hay del borde al centro    */
+    
+}
+
+button{
+    background-color: #f8f9fa;
+    padding: 0px 16px;
+    margin: 11px 4px;
+    height: 36px;
+    border: 1px solid #dadce0;
+    border-radius: 4px;
+    cursor: pointer; /*Cabia el dibujo del cursos (Manita)*/
+    color: #3c4043;
+
+}
+
+button:hover{
+    box-shadow: 0 1px 1px rgba(0,0,0,.1);
+    background-color: #f8f9fa;
+    border: 1px solid #dadce0;
+    color: #202124;
+}
+
+#botones{
+    margin-bottom: 10%;
+
+}
+
+#section-buscador{
+    margin: 20px 0px;
+    border: 1px solid #dfe1e5;
+    min-height: 50px ;
+    border-radius: 24px;
+    width: 568px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#section-buscador:hover{
+    box-shadow:0 1px 6px rgba(32,33,36,.28);
+    border
+}
+
+#section-buscador svg{
+    padding: 5px 8px 0 14px;
+    width: 24px;
+}
+
+#buscador{
+    border: none;
+    width: 85%;
+    outline: none;
+}
+
+#foto-perfil{
+    border-radius: 24px;
+}
+
+a:link{
+    color: #202124;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+#footer-listas ul li a{
+    color: gray;
+    text-decoration: none;
+
+}
+
+#footer-listas ul li a:hover{
+    text-decoration: underline;
+
+}
